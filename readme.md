@@ -4,7 +4,7 @@
 
 ```js
 "require": {
-    "laracasts/validation": "~1.0"
+    "laracasts/validation": "~1.1"
 }
 ```
 
